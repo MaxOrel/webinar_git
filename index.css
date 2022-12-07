@@ -1,0 +1,7 @@
+@import url('./block/button/button.css');
+@import url('./block/button/_type/button_type_primary.css');
+@import url('./block/button/_type/button_type_secondary.css');
+@import url('./block/card/card.css');
+@import url('./block/card/__buttons/card__buttons.css');
+@import url('./block/card/__image/card__image.css');
+@import url('./block/page/__card/page__card.css');

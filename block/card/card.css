@@ -1,0 +1,11 @@
+.card {
+    background-color: #ccc;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.card:hover {
+    background-color: ghostwhite;
+    border-radius: 10px;
+    overflow: hidden;
+}
